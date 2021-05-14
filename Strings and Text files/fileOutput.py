@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 13 19:23:35 2021
 
-@author: Riku
-"""
 
 def unique_file(input_filename, output_filename):
     input_file = open(input_filename, 'r')
