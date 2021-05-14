@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 14 14:09:43 2021
 
-@author: Riku
-"""
 
 price=float(input('Enter the purchase price: '))
 
