@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  1 22:50:24 2021
-
-@author: Riku
-"""
 
 # Put your code here
 # Put your code here
