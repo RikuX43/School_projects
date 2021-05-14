@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 12 21:48:45 2021
 
-@author: Riku
-"""
 
 alpha = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
