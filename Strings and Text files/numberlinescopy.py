@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  6 20:07:50 2021
 
-@author: Riku
-"""
 inputFileName = input("Input filename: ") 
 outputFileName = input("Output filename: ") 
 
