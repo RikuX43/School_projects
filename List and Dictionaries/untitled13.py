@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 16 20:04:47 2021
-
-@author: Riku
-"""
-
 
 def repToDecimal(n, fromBase):
     
